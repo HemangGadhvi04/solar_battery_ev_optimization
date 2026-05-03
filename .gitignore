@@ -19,7 +19,6 @@ env/
 
 # Generated outputs
 results/*.csv
-results/*.png
 
 # Keep results folder structure
 !results/.gitkeep
