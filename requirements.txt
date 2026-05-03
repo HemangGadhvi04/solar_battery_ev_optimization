@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+cvxpy
+streamlit
+scipy
+pvlib
+streamlit

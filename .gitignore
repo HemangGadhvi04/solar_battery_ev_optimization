@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Generated outputs
+results/*.csv
+results/*.png
+
+# Keep results folder structure
+!results/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
