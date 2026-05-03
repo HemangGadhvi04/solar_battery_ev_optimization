@@ -18,7 +18,6 @@ env/
 .streamlit/
 
 # Generated outputs
-results/*.csv
 
 # Keep results folder structure
 !results/.gitkeep
