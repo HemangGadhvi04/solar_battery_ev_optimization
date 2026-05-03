@@ -1,0 +1,2 @@
+annual_grid_import_kwh,annual_grid_export_kwh,annual_energy_cost_rs,annual_degradation_cost_rs,annual_net_cost_rs,annual_battery_throughput_kwh,final_soh_percent,final_capacity_loss_percent,estimated_usable_capacity_kwh
+11547.89236337446,2587.591471754017,84620.36449173365,7008.058056768496,91628.42254850212,4672.03870451233,94.59796129548769,5.402038704512312,9.459796129548769
