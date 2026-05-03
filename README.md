@@ -331,5 +331,6 @@ EV charging demand is modeled using a fixed daily pattern
 battery degradation model is simplified and semi-empirical
 tariff is modeled using fixed import/export prices
 PV sizing optimization uses representative days for faster runtime
-Future Improvements
+
+
 
